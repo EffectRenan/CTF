@@ -1,11 +1,11 @@
 Challenge: https://sarah_palin_fanpage.tjctf.org/
 
-To get the flag you need to like all moments, but you can't to this manually.
+To get the flag you need to like all moments, but you can't do this manually.
 
 Cookie data is encoded in base64 and has the following content:
 {"1":false,"2":false,"3":false,"4":false,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false}
 
-You only need to change "false" to "true", encode in base64 and set the data cookie with this new value.
+You only need to change "false" to "true", encode in base64 and set the data cookie with this new content.
 
 Access: https://sarah_palin_fanpage.tjctf.org/exclusive
 
