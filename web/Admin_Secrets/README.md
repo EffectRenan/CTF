@@ -5,7 +5,7 @@ Create an account and login.
 Create a post, access it and see the source code:
 - ``<!-- Only the admin can see this -->``
 
-**Alert:** Every single post that you create you'll have 2 seconds to click on "Report to Admin" to exploit it (or edit the timeout).
+**Alert:** Every single post that you create, you'll have 2 seconds to click on "Report to Admin" to exploit it (or edit the timeout).
 
 Create a HTTP server to receive admin's content. Example: ``sudo python3 http.server 80``.
 
