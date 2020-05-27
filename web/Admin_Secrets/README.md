@@ -20,7 +20,7 @@ Your HTTP server will receive two requests, one from you and other from admin. Y
 Now we figure out "/admin_flag". So we need to do a new request to "/admin_flag". Create a new post with exploit2.html. Edit:
 - yourHTTPServer, to receive admin's content.
 
-Decoding base64 content we notice that we can't read the flag. Now we need to bypass the filter. To bypass we can use HTML entities encode into iframe tag.
+Decoding base64 content we notice that we can't read the flag. Now we need to bypass the filter. We can use HTML entities encode into iframe tag.
 
 Edit the variable "payload" of explort3.html file with entire previous content of exploit2.html (including script tags). Open exploit3.html in some browser and copy the content of console (pess F12). We can do this same step with Burp Suite using "HTML encode".
 
