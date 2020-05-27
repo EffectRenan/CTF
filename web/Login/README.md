@@ -8,7 +8,7 @@ You can see a MD5 hash. Use the link bellow to crack it.
 
 c2a094f7d35f2299b414b6a1b3bd595a = 	inevitable
 
-login: admin
+login: admin, 
 password: inevitable
 
 flag: tjctf{inevitable890898}
