@@ -11,7 +11,7 @@ Create a HTTP server to receive admin's content. Example: ``sudo python3 http.se
 
 Create a new post with exploit1.html. You need to edit some variables:
 - yourHTTPServer, to receive admin's content.
-- yourPostId, endpoint of previous post ("/post/<something>")
+- yourPostId, endpoint of previous post ("/post/`<something>"`)
 
 Ps: Don't forget to click on "Report to Admin" immediately after access the post.
 
