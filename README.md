@@ -4,7 +4,7 @@
     <img alt="Github" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEffectRenan%2FCTF">
 </p>
 
-# Capture the Flag - Challanges solves
+# Capture the Flag - Challenges solved
 
 **Look at the branches for each CTF which I played.**
 
