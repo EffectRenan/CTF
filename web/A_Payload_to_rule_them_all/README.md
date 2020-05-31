@@ -6,4 +6,4 @@ Make a post request to http://payload.pwn2.win/ with the following body content:
 
 Flag: CTF-BR{p4yl04d_p0lygl0ts_4r3_m0r3_fun_th4n_f1l3typ3s}
 
-Original write-up: https://github.com/pwn2winctf/challenges-2020/tree/master/web-A%20payload%20to%20rule%20them%20all
+[Original write-up](https://github.com/pwn2winctf/challenges-2020/tree/master/web-A%20payload%20to%20rule%20them%20all)
