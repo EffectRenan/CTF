@@ -16,3 +16,5 @@
 **[TJCTF](https://github.com/EffectRenan/CTF/tree/TJCTF_2020)**
 
 **[pwn2win](https://github.com/EffectRenan/CTF/tree/pwn2win)**
+
+**[HSCTF 7](https://github.com/EffectRenan/CTF/tree/HSCTF7_2020)**
