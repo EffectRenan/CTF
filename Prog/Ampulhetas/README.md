@@ -1,0 +1,5 @@
+Challange: nc 142.93.73.149 12064
+
+Execute: python solve.py
+
+flag: HACKAFLAG{FUWXG2DPOJ2GY6JOMNRS6OLLIZHEQLJN}
