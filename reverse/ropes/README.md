@@ -1,0 +1,5 @@
+**Challenge:** ropes
+
+Execute: `strings ropes | grep '{' && strings ropes | grep '}'`
+
+**Flag:** flag{r0pes_ar3_just_l0ng_str1ngs}

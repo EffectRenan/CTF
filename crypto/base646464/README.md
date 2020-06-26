@@ -1,0 +1,5 @@
+**Challenge:** cipher.txt and generate.js
+
+Execute: `chmod +x extract.sh && ./extract.sh`
+
+**Flag** : flag{l00ks_l1ke_a_l0t_of_64s}
