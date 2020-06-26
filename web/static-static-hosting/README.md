@@ -12,9 +12,8 @@ Use this [javascript code](https://gist.github.com/EffectRenan/9e85ddc199668e7b5
   - Edit the variable host with your URL.
   - Execute: `node eval-charcode.js | base64`. ***Ps: Base64 encode is necessary to exploit it.***
 
+Final payload: `https://static-static-hosting.2020.redpwnc.tf/#<base64 generated>`
 
-Final payload: `https://static-static-hosting.2020.redpwnc.tf/#<base64 encode generated>`
-
-Send this URL to Admin at `https://admin-bot.redpwnc.tf/submit?challenge=static-static-hosting`
+Send this URL to Admin at `https://admin-bot.redpwnc.tf/submit?challenge=static-static-hosting` and you will receive a request with the flag.
 
 **Flag:** flag{wh0_n33d5_d0mpur1fy}
