@@ -5,20 +5,4 @@
 
 # Capture the Flag - Challenges solved
 
-**Look at the branches for each CTF which I played.**
-
-**- 2020**
-
-**[Hackaflag - FRANCES ALLEN](https://github.com/EffectRenan/CTF/tree/hackaflag_2020_FRANCES-ALLEN)**
-
-**[HouseplantCTF](https://github.com/EffectRenan/CTF/tree/HouseplantCTF_2020)**
-
-**[TJCTF](https://github.com/EffectRenan/CTF/tree/TJCTF_2020)**
-
-**[pwn2win](https://github.com/EffectRenan/CTF/tree/pwn2win)**
-
-**[HSCTF 7](https://github.com/EffectRenan/CTF/tree/HSCTF7_2020)**
-
-**[Hackaflag - CAROL SHAW](https://github.com/EffectRenan/CTF/tree/hackaflag_2020_CAROL-SHAW)**
-
-**[redpwnCTF](https://github.com/EffectRenan/CTF/tree/redpwnCTF_2020)**
+https://ctf.0ops.sjtu.cn/
