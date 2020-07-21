@@ -31,4 +31,4 @@
 
 **[SCTF-XCTF](https://github.com/EffectRenan/CTF/tree/SCTF-XCTF_2020)**
 
-**[CSICTF](https://github.com/EffectRenan/CTF/tree/CSICTF_2020)
+**[CSICTF](https://github.com/EffectRenan/CTF/tree/CSICTF_2020)**
