@@ -5,8 +5,6 @@
 
 # Capture the Flag - Challenges solved
 
-**Look at the branches for each CTF which I played.**
-
 **- 2020**
 
 **[Hackaflag - FRANCES ALLEN](https://github.com/EffectRenan/CTF/tree/hackaflag_2020_FRANCES-ALLEN)**
@@ -34,3 +32,10 @@
 **[Hackaflag - JÚLIO NEVES](https://github.com/EffectRenan/CTF/tree/hackaflag_2020_JULIO-NEVES)**
 
 **[CSICTF](https://github.com/EffectRenan/CTF/tree/CSICTF_2020)**
+
+***
+
+**- 2021**
+
+
+**[DiceCTF](https://github.com/EffectRenan/CTF/tree/DiceCTF_2021)**
