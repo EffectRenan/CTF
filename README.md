@@ -3,7 +3,7 @@
     <img alt="Tweet" src="https://img.shields.io/twitter/follow/EffectRenan?label=Follow&style=social">
 </p>
 
-# Capture the Flag - Challenges solved
+# Capture the Flag - Solved Challenges
 
-CTFtime: https://ctftime.org/event/1236
-CTF: https://ctf.dicega.ng/
+CTFtime: https://ctftime.org/event/1266
+CTF: https://tenable.ctfd.io/
