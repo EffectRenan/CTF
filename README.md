@@ -1,3 +1,3 @@
-# Capture the Flag - Challenges solved
+# Capture the Flag - Solved Challenges
 
 https://ctf.hsctf.com/
