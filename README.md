@@ -5,7 +5,7 @@
 
 # Capture the Flag - Solved Challenges
 
-CTFtime: https://ctftime.org/event/1250
+CTFtime: https://ctftime.org/event/1299
 
-CTF: https://ctf.darkarmy.xyz/
+CTF: https://ctf.bsidessf.net/
 
