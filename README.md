@@ -3,6 +3,6 @@
     <img alt="Tweet" src="https://img.shields.io/twitter/follow/EffectRenan?label=Follow&style=social">
 </p>
 
-# Capture the Flag - Challenges solved
+# Capture the Flag - Solved Challenges
 
 https://2020.redpwn.net/
