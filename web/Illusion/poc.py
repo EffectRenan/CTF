@@ -2,7 +2,7 @@ import requests
 
 # Get user and password at "http://illusion.pwn2win.party:1337"
 
-TARGET_URL = "http://illusion.pwn2win.party:35462"
+TARGET_URL = "http://illusion.pwn2win.party:<PORT>"
 USER = ""
 PASSWORD = ""
 
