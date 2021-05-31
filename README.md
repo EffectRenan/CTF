@@ -19,6 +19,8 @@
 
 **[ångstromCTF](https://github.com/EffectRenan/CTF/tree/angstromCTF_2021)**
 
+**[Pwn2Win](https://github.com/EffectRenan/CTF/tree/pwn2win-2021)**
+
 ***
 
 **- 2020**
@@ -29,7 +31,7 @@
 
 **[TJCTF](https://github.com/EffectRenan/CTF/tree/TJCTF_2020)**
 
-**[pwn2win](https://github.com/EffectRenan/CTF/tree/pwn2win)**
+**[Pwn2Win](https://github.com/EffectRenan/CTF/tree/pwn2win)**
 
 **[HSCTF 7](https://github.com/EffectRenan/CTF/tree/HSCTF7_2020)**
 
