@@ -1,3 +1,3 @@
 **Challenge:** `parser.c`
 
-PoC: `solve.py`
+**PoC:** `solve.py`
