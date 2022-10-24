@@ -5,7 +5,7 @@
 
 # Capture the Flag - Solved Challenges
 
-**Member: [Deadlock Team](https://deadlock.team/members).**
+**Team (2020-2021): [Deadlock Team](https://ctftime.org/team/70619).**
 
 ***
 
